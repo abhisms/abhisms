@@ -1,9 +1,3 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-<h1 align="center">HI 👋, I'M ABHISHEK</h1>
-<h3 align="center">A PASSIONATE WEB DEVELOPER </h3>
-<img width ='400'align='right'alt='coding'src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>
-  
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -33,7 +27,15 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<br><br>    
+<br><br>  
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center">HI 👋, I'M ABHISHEK</h1>
+<h3 align="center">A PASSIONATE WEB DEVELOPER </h3>
+<img width ='400'align='right'alt='coding'src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>
+  
+
+  
 <p align="left">
   <a href="https://abhisms.github.io/MyPortfolio/#" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-blue?logo=link&style=for-the-badge" alt="Portfolio" />
