@@ -1,27 +1,23 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">HI 👋, I'M ABHISHEK</h1>
+<h3 align="center">A PASSIONATE WEB DEVELOPER </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisms" alt="abhisms" /></a> </p>
+<p align="left">
+  <a href="https://abhisms.github.io/MyPortfolio/#" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-blue?logo=link&style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/abhi_450" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_450?logo=twitter&style=for-the-badge" alt="abhi_450" /></a> </p>
 
-- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [https://abhisms.github.io/MyPortfolio/#](https://abhisms.github.io/MyPortfolio/#)
-
-- 📝 I sometimes write articles on [https://blogbyabhiz.wordpress.com/](https://blogbyabhiz.wordpress.com/)
-
-- 📫 How to reach me **abhimyvkn@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12QKxPqo1pW2UuBQOHmJbckUYyQrzxKKl/view?usp=drivesdk](https://drive.google.com/file/d/12QKxPqo1pW2UuBQOHmJbckUYyQrzxKKl/view?usp=drivesdk)
-
-- ⚡ Fun fact **I don't talk much**
+- 🔭 **Currently working on:** Personal development and self-improvement.
+- 🌱 **Currently learning:** Django and advanced web development techniques.
+- 👨‍💻 **Portfolio:** Explore my projects at [My Portfolio](https://abhisms.github.io/MyPortfolio/#)
+- 📝 **Blog:** Read my articles on [My Blog](https://blogbyabhiz.wordpress.com/)
+- 📫 **Contact:** [abhimyvkn@gmail.com](mailto:abhimyvkn@gmail.com)
+- ⚡ **Fun Fact:** I prefer listening over talking.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.abhi" height="30" width="40" /></a>
 <a href="https://twitter.com/abhi_450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_450" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-k-463193224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-k-463193224" height="30" width="40" /></a>
 <a href="https://fb.com/abhishekz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishekz" height="30" width="40" /></a>
@@ -36,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisms&show_icons=true&locale=en" alt="abhisms" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisms&" alt="abhisms" /></p>
