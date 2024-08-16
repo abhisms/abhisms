@@ -32,3 +32,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisms&show_icons=true&locale=en" alt="abhisms" /></p>
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abhisms/abhisms/output/snake.svg" alt="Snake animation" />
+
+
+###
