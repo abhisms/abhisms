@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">HI 👋, I'M ABHISHEK</h1>
 <h3 align="center">A PASSIONATE WEB DEVELOPER </h3>
-<img width ='400'align='right'alt='coding'src='https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif'/>
+<img width ='400'align='right'alt='coding'src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'/>
 <img  align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
